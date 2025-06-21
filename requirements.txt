@@ -1,0 +1,36 @@
+Python (version 3.11.7) 
+R (version 4.4.0)
+
+Python libarary
+    numpy==1.26.4
+    pandas==2.2.3
+    matplotlib==3.9.4
+    scikit-learn==1.5.2
+    SimpleITK==2.4.1
+    pydicom==2.4.4
+    pingouin==0.5.5
+    seaborn: 0.13.2
+    statsmodels: 0.14.4
+    shap: 0.46.0
+    mlxtend: 0.23.3
+
+R package
+    limma: 3.60.3
+    org.Hs.eg.db: 3.19.1
+    clusterProfiler: 4.12.6
+    enrichplot: 1.24.0
+    ggplot2: 3.5.1
+    ggridges: 0.5.6
+    ggsci: 3.2.0
+    pheatmap: 1.0.12
+    tidyverse: 2.0.0
+    ggrepel: 0.9.5
+    stringr: 1.5.1
+    edgeR: 4.2.0
+    stringi: 1.8.4
+    GOplot: 1.0.2
+    GSVA: 1.52.3
+    GSEABase: 1.66.0
+    ggpubr: 0.6.0
+    reshape2: 1.4.4
+    dplyr: 1.1.4
